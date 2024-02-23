@@ -14,3 +14,5 @@
 ### Versão de desenvolvedor
 #### Back-end:
   Ao clonar o repositório, importe o projeto SpringBoot para a IDE desejada e tendo o Java instalado, você já pode inicia-lo.
+
+Obs. olhando um pouco mais o repositório é possível ver que só há uma branch e poucos commits. Então, alguns projetos que eu acabei desenvolvendo eu não criava repositórios para ter todo um controle maior de desenvolvimento. E esse projeto foi um dos que eu importei diretamente para um novo repositório
